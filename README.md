@@ -1,6 +1,6 @@
 # GRIP_TASKS
 
-# Task1 as a Data Science & Business Analytics Intern at The Sparks Foundation under the #GRIPSEPT23
+# Tasks completed as a Data Science & Business Analytics Intern at The Sparks Foundation under the #GRIPSEPT23
 
 This repository contains all the projects completed for the The Graduate Rotational Internship Program under The Sparks Foundation.
 
